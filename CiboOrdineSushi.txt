@@ -1,0 +1,6 @@
+Nome: uramaki
+Gusto: dolce
+Contanti: 20
+Quantità: 6
+Agridolce?: false
+Fritto?: true

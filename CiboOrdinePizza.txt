@@ -1,0 +1,6 @@
+Nome: Margherita
+Gusto: Dolce
+Contantti: 50
+Quantità: 6
+Pomodoro?: true
+Doppio Formaggio?: false
